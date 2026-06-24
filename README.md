@@ -1,4 +1,4 @@
-# TakeMeter: Soccer Discourse Classifier
+# TakeMeter
 
 ## 1. Project Overview
 TakeMeter is an NLP classification project designed to categorize internet soccer discourse into three distinct buckets. The goal is to see if a fine-tuned language model can distinguish between data-driven tactical discussions, emotional outbursts, and tribal internet mockery.
